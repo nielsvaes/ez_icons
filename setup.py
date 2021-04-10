@@ -8,7 +8,7 @@ data_files_to_include = ["*.png"]
 
 setup(
     name='ez-icons',
-    version='1.0.1',
+    version='1.0.2',
     packages=find_packages(),
     package_data={
         "": data_files_to_include,
